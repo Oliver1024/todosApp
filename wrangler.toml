@@ -1,0 +1,12 @@
+name = "abcd"
+type = "javascript"
+
+account_id = "02f8394641c156487f5e7cfcc75ce5ea"
+workers_dev = true
+route = "todos.olivertong.workers.dev"
+zone_id = ""
+compatibility_date = "2021-12-09"
+
+kv_namespaces = [
+	 { binding = "TODO", id = "3bbb5d3ea98d486b91ad9d0ad57f0758" }
+]

@@ -14,3 +14,6 @@ wrangler generate projectname https://github.com/cloudflare/worker-template
 
 Further documentation for Wrangler can be found [here](https://developers.cloudflare.com/workers/tooling/wrangler).
 # todosApp
+### This todosApp is from Cloudflare tutorial
+## publish the code to Cloudflare/Workers
+`wrangler publish`
