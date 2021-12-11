@@ -17,3 +17,6 @@ Further documentation for Wrangler can be found [here](https://developers.cloudf
 ### This todosApp is from Cloudflare tutorial
 ## publish the code to Cloudflare/Workers
 `wrangler publish`
+
+## published URL
+https://todos.olivertong.workers.dev/
